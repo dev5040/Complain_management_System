@@ -1,0 +1,65 @@
+{
+  "students": [
+    {
+      "name": "dev",
+      "lname": "verma",
+      "city": "bhopal",
+      "email": "dev@gmail.com",
+      "password": "dev123",
+      "id": 1
+    },
+    {
+      "name": "rahul",
+      "lname": "negi",
+      "city": "himanchal",
+      "email": "rahul@gmail.com",
+      "password": "rahul123",
+      "id": 2
+    },
+    {
+      "name": "jeetu",
+      "lname": "sharma",
+      "city": "jhansi",
+      "email": "jeetu@gmail.com",
+      "password": "jeetu123",
+      "id": 3
+    },
+    {
+      "id": 4
+    }
+  ],
+  "stucomplain": [
+    {
+      "stuid": 1,
+      "complain": "sir i want backup class ,please provide me",
+      "ans": "ok we will provide you backup class come from monday",
+      "id": 1
+    },
+    {
+      "stuid": 2,
+      "complain": "sir i want to go home ",
+      "ans": "ok you can go home",
+      "id": 2
+    }
+  ],
+  "adminuser": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "id": 2,
+      "name": "rajesh",
+      "email": "raj@gmail.com",
+      "password": "raj123"
+    },
+    {
+      "id": 3,
+      "name": "sudhir",
+      "email": "sudhir@gmail.com",
+      "password": "sudhir123"
+    }
+  ]
+}
